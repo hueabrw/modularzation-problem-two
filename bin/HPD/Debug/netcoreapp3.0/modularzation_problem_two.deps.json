@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "modularzation_problem_two/1.0.0": {
+        "runtime": {
+          "modularzation_problem_two.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "modularzation_problem_two/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

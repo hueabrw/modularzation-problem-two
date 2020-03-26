@@ -1,0 +1,11 @@
+C:\code\homework\CWEB1112\modularzation\modularzation_problem_two\obj\HPD\Debug\netcoreapp3.0\modularzation_problem_two.csprojAssemblyReference.cache
+C:\code\homework\CWEB1112\modularzation\modularzation_problem_two\obj\HPD\Debug\netcoreapp3.0\modularzation_problem_two.AssemblyInfoInputs.cache
+C:\code\homework\CWEB1112\modularzation\modularzation_problem_two\obj\HPD\Debug\netcoreapp3.0\modularzation_problem_two.AssemblyInfo.cs
+C:\code\homework\CWEB1112\modularzation\modularzation_problem_two\bin\HPD\Debug\netcoreapp3.0\modularzation_problem_two.exe
+C:\code\homework\CWEB1112\modularzation\modularzation_problem_two\bin\HPD\Debug\netcoreapp3.0\modularzation_problem_two.deps.json
+C:\code\homework\CWEB1112\modularzation\modularzation_problem_two\bin\HPD\Debug\netcoreapp3.0\modularzation_problem_two.runtimeconfig.json
+C:\code\homework\CWEB1112\modularzation\modularzation_problem_two\bin\HPD\Debug\netcoreapp3.0\modularzation_problem_two.runtimeconfig.dev.json
+C:\code\homework\CWEB1112\modularzation\modularzation_problem_two\bin\HPD\Debug\netcoreapp3.0\modularzation_problem_two.dll
+C:\code\homework\CWEB1112\modularzation\modularzation_problem_two\bin\HPD\Debug\netcoreapp3.0\modularzation_problem_two.pdb
+C:\code\homework\CWEB1112\modularzation\modularzation_problem_two\obj\HPD\Debug\netcoreapp3.0\modularzation_problem_two.dll
+C:\code\homework\CWEB1112\modularzation\modularzation_problem_two\obj\HPD\Debug\netcoreapp3.0\modularzation_problem_two.pdb
