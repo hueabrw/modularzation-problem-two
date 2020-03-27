@@ -3,7 +3,10 @@
 
     Description: A simple HR travel reimbursement program.
 
-    NOTICE: Sorry Chris if this is a bit overkill. I really wanted to pretty up the program. The overloaded methods are on line 80 and 84.
+    NOTICE: 
+        Sorry Chris if this is a bit overkill. I really wanted to pretty up the program. The overloaded methods are on line 80 and 84.
+        Also I know this is really messy code, sorry if its a bit unreadble and if there are any poor programmning practices in it.
+
 */
 using System;
 
